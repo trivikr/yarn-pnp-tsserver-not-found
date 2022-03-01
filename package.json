@@ -1,0 +1,8 @@
+{
+  "name": "yarn-pnp-tsserver-not-found",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:trivikr/yarn-pnp-tsserver-not-found.git",
+  "author": "Kamat, Trivikram <16024985+trivikr@users.noreply.github.com>",
+  "license": "MIT"
+}
